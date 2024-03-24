@@ -1,4 +1,4 @@
-package org.java17recipes.chapter10.recipe10_01;
+
 
 
 public class Recipe10_1 {

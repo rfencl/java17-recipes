@@ -1,4 +1,4 @@
-package org.java17recipes.chapter05.recipe05_04;
+
 
 public class TestPlayer {
 	public static String GOALIE = "GOALIE";

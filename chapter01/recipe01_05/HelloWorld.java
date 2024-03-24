@@ -1,4 +1,3 @@
-package org.java17recipes.chapter01.recipe01_05;
 
 public class HelloWorld {
     /* The main method begins in this class */

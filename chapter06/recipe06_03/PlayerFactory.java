@@ -1,4 +1,4 @@
-package org.java17recipes.chapter06.recipe06_03;
+
 
 @FunctionalInterface
 public interface PlayerFactory {

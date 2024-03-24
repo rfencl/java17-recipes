@@ -1,4 +1,4 @@
-package org.java17recipes.chapter14.recipe14_02;
+
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;

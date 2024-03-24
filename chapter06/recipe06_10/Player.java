@@ -1,4 +1,4 @@
-package org.java17recipes.chapter06.recipe06_10;
+
 
 public class Player {
     private String firstName = null;

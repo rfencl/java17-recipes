@@ -1,4 +1,4 @@
-package org.java17recipes.chapter06.recipe06_07;
+
 
 public class MainClass {
     public static void main(String[] args){

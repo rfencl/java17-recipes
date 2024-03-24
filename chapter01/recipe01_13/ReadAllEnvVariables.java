@@ -1,4 +1,4 @@
-package org.java17recipes.chapter01.recipe01_13;
+
 
 import java.util.Map;
 public class ReadAllEnvVariables {

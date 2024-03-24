@@ -1,4 +1,4 @@
-package org.java17recipes.chapter06.recipe06_09;
+
 
  
 public class HelloLambda {

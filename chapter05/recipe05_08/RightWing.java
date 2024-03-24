@@ -1,4 +1,4 @@
-package org.java17recipes.chapter05.recipe05_08; 
+
 
 public class RightWing extends Player implements PlayerType {
     

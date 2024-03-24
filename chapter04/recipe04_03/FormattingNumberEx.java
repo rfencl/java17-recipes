@@ -1,4 +1,4 @@
-package org.java17recipes.chapter04.recipe04_03;
+
 
 import java.text.NumberFormat;
 import java.util.Locale;

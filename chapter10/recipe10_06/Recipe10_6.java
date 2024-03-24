@@ -1,4 +1,4 @@
-package org.java17recipes.chapter10.recipe10_06;
+
 
 
 import java.util.concurrent.BlockingQueue;

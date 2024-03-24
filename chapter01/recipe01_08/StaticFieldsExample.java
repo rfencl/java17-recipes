@@ -1,4 +1,4 @@
-package org.java17recipes.chapter01.recipe01_08;
+
 
 class StaticDemo {
     public static boolean oneValueForAllObjects = false;

@@ -1,4 +1,4 @@
-package org.java17recipes.chapter08.recipe08_03;
+
  
 import org.java17recipes.chapter08.recipe08_01.ProgramSettings;
 import java.awt.*;

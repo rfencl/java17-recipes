@@ -1,4 +1,4 @@
-package org.java17recipes.chapter04.recipe04_06;
+
 
 
 import java.util.Random;

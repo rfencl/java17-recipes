@@ -1,4 +1,4 @@
-package org.java17recipes.chapter15.recipe15_07;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;

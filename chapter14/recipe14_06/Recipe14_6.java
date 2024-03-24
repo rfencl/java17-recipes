@@ -1,4 +1,4 @@
-package org.java17recipes.chapter14.recipe14_06;
+
 
 
 import javax.mail.*;

@@ -1,4 +1,4 @@
-package org.java17recipes.chapter15.recipe15_03;
+
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

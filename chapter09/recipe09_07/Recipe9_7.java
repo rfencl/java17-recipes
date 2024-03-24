@@ -1,4 +1,4 @@
-package org.java17recipes.chapter09.recipe09_07;
+
 
 
 public class Recipe9_7 {

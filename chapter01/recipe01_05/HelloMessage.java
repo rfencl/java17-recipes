@@ -1,4 +1,4 @@
-package org.java17recipes.chapter01.recipe01_05;
+
 
 public class HelloMessage {
     private String message = "";

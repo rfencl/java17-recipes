@@ -1,4 +1,4 @@
-package org.java17recipes.chapter05.recipe05_09;
+
  
 public class InterfaceTester {
     

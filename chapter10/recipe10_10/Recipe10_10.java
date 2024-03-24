@@ -1,4 +1,4 @@
-package org.java17recipes.chapter10.recipe10_10;
+
 
 
 import java.util.concurrent.atomic.DoubleAdder;
