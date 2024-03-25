@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_11;
+
 
 public interface Pool {
 

@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_13;
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;

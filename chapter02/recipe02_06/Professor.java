@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_06;
+
 
 public class Professor {
     private Integer id;

@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_05;
+
 
 public class InstanceOfExample {
 	public static void main (String[] args) {

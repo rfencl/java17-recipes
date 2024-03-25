@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_02;
+
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_08;
+
 
 import java.util.Random; 
 import java.util.SplittableRandom; 

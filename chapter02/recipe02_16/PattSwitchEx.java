@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_16;
+
 public class PattSwitchEx {
 	public static void main(String[] args){
 

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2c4143b-a142-4c8b-8f3d-a98e9d0c7a8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../recipe02_01/KeywordVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_01/KeywordVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_01/KeywordVarExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_01/KeywordVarExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_02/ReadContentsFileEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_02/ReadContentsFileEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_03/MultipleLineStringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_03/MultipleLineStringEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_04/NullPointerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_04/NullPointerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_05/InstanceOfExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_05/InstanceOfExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_06/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_06/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumFPnumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/SumFPnumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumFPnumbersStrict.java" beforeDir="false" afterPath="$PROJECT_DIR$/SumFPnumbersStrict.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_08/PseudoRandomGeneratorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_08/PseudoRandomGeneratorEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_08/UseNewPRNGs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_08/UseNewPRNGs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_09/ColorSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_09/ColorSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_09/LineShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_09/LineShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_09/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_09/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_09/Rhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_09/Rhombus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_09/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_09/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_09/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_09/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_11/Pool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_11/Pool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_11/PoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_11/PoolExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_12/OSInformationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_12/OSInformationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_13/HandlingErrorsEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_13/HandlingErrorsEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_14/FilteringData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_14/FilteringData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_15/IterCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_15/IterCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipe02_16/PattSwitchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe02_16/PattSwitchEx.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2e9VIrGxFKDdAmcFr1fDpDObkas" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2c4143b-a142-4c8b-8f3d-a98e9d0c7a8c" name="Changes" comment="" />
+      <created>1711316710142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711316710142</updated>
+    </task>
+    <servers />
+  </component>
+</project>

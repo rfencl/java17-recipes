@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_01;
+
 
 public class KeywordVarExample2 {
 	// error

@@ -1,4 +1,4 @@
-package org.java17recipes.chapter02.recipe02_12;
+
 
 	import java.time.Duration;
 	import java.util.Optional;
@@ -34,7 +34,7 @@ package org.java17recipes.chapter02.recipe02_12;
 	        boolean alive = handle.isAlive();
 	        Optional<Duration> cpuDuration = handle.info().totalCpuDuration();
 	        Optional<String> handleName = handle.info().command();
-	        return pid + " " + alive + " " + handleName + ":"+ cpuDuration;
+	        return pid + " " + alive + " " + handleName.orElse("") + ":"+ cpuDuration.orElse(Duration.ZERO);
 	     }
 	    
 	    public static String listOsUser(ProcessHandle handle){

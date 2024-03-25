@@ -1,4 +1,8 @@
-package org.java17recipes.chapter02.recipe02_09;
+
+
+/**
+ * https://www.baeldung.com/java-sealed-classes-interfaces
+ * */
 
 public sealed class Square extends LineShape permits ColorSquare {
 	public int side;
